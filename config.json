@@ -7,14 +7,25 @@
   "rewarded_min_watch_ms": 15000,
   "creatives": [
     {
-      "id": "prismprowlcanopy_text_1",
-      "format": "text",
-      "placements": ["interstitial", "rewarded", "banner"],
-      "image_url": "",
-      "icon_url": "https://vachek-hooves.github.io/10892-IceFishing_house_ad/media/icon.png",
+      "id": "prismprowlcanopy_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
+      "icon_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
       "title": "",
-      "body": "",
-      "cta_text": "PLAY",
+      "cta_text": "Play",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "prismprowlcanopy_poster_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
+      "icon_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
+      "title": "",
+      "cta_text": "Play",
       "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
       "store_url": "https://play.google.com/store/apps/details?id=com.mosaicjaguar.prismprowlcanopy",
       "weight": 1
