@@ -5,5 +5,19 @@
   "interstitial_min_interval_ms": 60000,
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
-  "creatives": []
+  "creatives": [
+    {
+      "id": "prismprowlcanopy_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded", "banner"],
+      "image_url": "",
+      "icon_url": "",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    }
+  ]
 }
