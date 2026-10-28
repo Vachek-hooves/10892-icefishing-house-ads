@@ -8,9 +8,11 @@
   "creatives": [
     {
       "id": "prismprowlcanopy_banner_1",
-      "format": "image",
-      "placements": ["banner"],
-      "image_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
+      "format": "text",
+      "placements": [
+        "banner"
+      ],
+      "image_url": "",
       "icon_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
       "title": "",
       "cta_text": "Play",
@@ -21,7 +23,10 @@
     {
       "id": "prismprowlcanopy_poster_1",
       "format": "image",
-      "placements": ["interstitial", "rewarded"],
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
       "image_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
       "icon_url": "https://vachek-hooves.github.io/10892-icefishing-house-ads/media/icon.jpg",
       "title": "",
